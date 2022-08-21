@@ -1636,7 +1636,7 @@
   top: 0;
   width: 250px;
   height: 250px;
-  background: url("https://i.imgur.com/jTpFJuI.png") no-repeat;
+  background: url("https://i.imgur.com/BpE7FY5I.png") no-repeat;
   background-size: 100%;
 }
 :root .app-3xd6d0::after {
@@ -1645,7 +1645,7 @@
   bottom: 0;
   width: 490px;
   height: 40px;
-  background: url("https://i.imgur.com/KQQWcTY.png") no-repeat;
+  background: url("https://i.imgur.com/YNhawhz.png") no-repeat;
   background-size: 100%;
 }
 :root .app-2CXKsg::before {
@@ -1653,7 +1653,7 @@
   right: 116px;
   width: 200px;
   height: 120px;
-  background: url("https://i.imgur.com/0nsnP69.png") no-repeat;
+  background: url("https://i.imgur.com/wVARKIj.png") no-repeat;
   background-size: 100%;
 }
 :root .app-2CXKsg::after {
@@ -1661,7 +1661,7 @@
   right: 45%;
   width: 40px;
   height: 40px;
-  background: url("https://i.imgur.com/OBSWYht.png");
+  background: url("https://i.imgur.com/ItohKuq.png");
   background-size: 100%;
 }
 :root .layers-OrUESM::before {
@@ -1670,7 +1670,7 @@
   right: 0;
   width: 20px;
   height: 50px;
-  background: url("https://i.imgur.com/WveiFXb.png") no-repeat;
+  background: url("https://i.imgur.com/8vzZeO4.png") no-repeat;
   background-size: 100%;
 }
 :root .layers-OrUESM::after {
@@ -1678,7 +1678,7 @@
   right: 100px;
   width: 25px;
   height: 25px;
-  background: url("https://i.imgur.com/WBUag7e.png") no-repeat;
+  background: url("https://i.imgur.com/VMALwuy.png") no-repeat;
   background-size: 100%;
 }
 :root .bg-1QIAus::after {
@@ -1695,7 +1695,7 @@
   right: 430px;
   width: 30px;
   height: 40px;
-  background: url("https://i.imgur.com/JMoXBIs.png") no-repeat;
+  background: url("https://i.imgur.com/IO6EoIJ.png") no-repeat;
   background-size: 100%;
 }
 @media (max-width: 1350px) {
@@ -1899,7 +1899,7 @@
   }
 
   .container-1eFtFS::after {
-    content: "Stay comfy ❤";
+    content: "Poyo ❤";
     position: fixed;
     top: 220px;
     bottom: 85px;
@@ -1952,3 +1952,4 @@
     margin-right: 450px;
   }
 }
+
